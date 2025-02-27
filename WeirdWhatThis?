@@ -13,5 +13,4 @@ end)
 
 setreadonly(mt, true)
 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cooldawg123/CHCRACKED/refs/heads/main/antichange3213213.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vortex7542/PUBLIC/refs/heads/main/WeirdIdk%3F"))()
